@@ -1,0 +1,67 @@
+Name,Gender,State,Annual Income,hospital health plan awarness,Awareness of Health Insurance Plans,aware about which poilcies,Awareness of Retirement Plans,Awareness of Government Health Policies,Importance of Good Health,Monthly Budget for Expenses,Savings Plan for Medical Bills,Average Annual Unplanned Medical Expenses,Family/Friends for Financial Support,Plans for Working After Retirement,Medical Care After Retirement,Emotional Support,Health Issues,Age,occupation,Yearly  Saving ,Income_Bins
+Pinchu Alok,Male,Kerala ,1100000,Yes,No,Both,No,Sometimes,1,No,No,100000,1,No,No,1,No,21,service,110000,above 10 lakhs
+Gurkirat Singh,Male,Punjab,300000,Yes,Yes,Both,Maybe,Sometimes,4,Maybe,Maybe,10000,5,Yes,Yes,4,No,24,business,30000,below 3 lakhs
+Lokesh ,Male,Uttar Pradesh ,500000,Yes,Yes,Both,Yes,Sometimes,1,Yes,Yes,4500,1,Yes,Yes,1,Yes,24,service,50000,3 L - 5L
+Ayush ,Male,Jharkhand ,0,Yes,Yes,Both,Yes,Sometimes,1,No,Maybe,6000,5,Yes,Yes,1,No,23,business,0,Unemployed 
+Vaibhav Tanang,Male,Himachal Pradesh ,300000,No,No,Both,No,Always,1,No,No,4500,1,No,No,1,No,26,business,30000,below 3 lakhs
+Shivam Ranjan,Male,Bihar,300000,No,Yes,Government,Yes,Sometimes,5,Maybe,Maybe,2300,4,Maybe,Yes,5,No,22,service,30000,below 3 lakhs
+Rahul Kumar,Male,Bihar,300000,No,Yes,Both,Yes,Sometimes,5,No,No,12000,2,Maybe,Yes,3,No,27,service,30000,below 3 lakhs
+Rose,Female,Himachal Pradesh ,1150000,Yes,Yes,Government,Yes,Always,3,Yes,Yes,20000,3,No,Yes,1,No,23,service,115000,above 10 lakhs
+Utkarsh,Male,Jharkhand,300000,Yes,Yes,Government,Maybe,Sometimes,3,Maybe,No,7000,3,Yes,Yes,3,No,25,business,30000,below 3 lakhs
+Siddhant Rai,Male,Karnataka,1100000,Yes,Yes,Both,Yes,Always,1,Yes,Yes,8000,3,Yes,No,4,No,29,service,110000,above 10 lakhs
+Tanya Jaiswal ,Female,Uttar Pradesh ,0,No,Yes,Government,Yes,Sometimes,1,Maybe,Maybe,3000,3,Yes,No,2,No,26,service,0,Unemployed 
+P. Chetana,Female,Odisha,0,No,Yes,Government,Yes,Sometimes,1,Yes,No,5000,1,Maybe,No,1,Yes,22,service,0,Unemployed 
+Ishika Agarwal ,Female,Uttar Pradesh ,0,No,Yes,Private,Yes,Sometimes,1,No,No,4500,1,Maybe,Yes,1,No,28,service,0,Unemployed 
+Deepak,Male,Uttar Pradesh ,0,No,Yes,Private,No,Sometimes,4,No,No,12000,3,No,Yes,2,No,35,service,0,Unemployed 
+Ayusi Priyadarshini ,Female,Odisha,0,Yes,Yes,Government,Yes,Sometimes,1,Maybe,No,6000,1,Yes,Yes,1,No,45,service,0,Unemployed 
+Ananya Sahu,Female,Uttar Pradesh,300000,Yes,Yes,Government,Yes,Always,2,Yes,No,4000,4,No,Yes,4,No,27,service,30000,below 3 lakhs
+Palak ,Female,Rajasthan ,0,No,Yes,Government,Yes,Always,1,Yes,Yes,3000,1,Yes,Yes,1,Yes,25,service,0,Unemployed 
+Tanisha Chaturvedi ,Female,Maharashtra ,1150000,Yes,Yes,Both,Yes,Always,5,Yes,Yes,6000,3,Yes,Yes,5,No,35,service,115000,above 10 lakhs
+Manan Chaturvedi ,Male,Uttar Pradesh,0,No,Yes,Private,Yes,Sometimes,4,Yes,No,10000,2,Yes,Yes,2,Maybe,32,business,0,Unemployed 
+Naman Goyal,Male,Uttarakhand,300000,No,Yes,Both,Yes,Sometimes,1,Maybe,No,10000,1,Maybe,Yes,1,No,22,business,30000,below 3 lakhs
+Akanksha Chaturvedi ,Female,Uttar Pradesh,0,Yes,Yes,Both,Yes,Always,1,Maybe,Yes,10000,1,Maybe,Yes,1,No,28,business,0,Unemployed 
+Mukesh ,Male,Haryana,0,Yes,Yes,Both,Yes,Sometimes,1,No,No,10000,1,Yes,Yes,1,No,46,business,0,Unemployed 
+Prashant Tiwari,Male,Uttar Pradesh ,1100000,Yes,Yes,Both,Yes,Sometimes,1,Yes,Yes,5000,1,No,No,2,No,34,business,110000,above 10 lakhs
+Ayan,Male,Uttar Pradesh,0,No,Yes,Both,Yes,Sometimes,4,Yes,Yes,5000,1,Yes,Yes,1,No,33,service,0,Unemployed 
+Kush Khandpur,Male,Uttar Pradesh,1100000,No,Yes,Government,Yes,Sometimes,2,Yes,No,4000,2,Yes,Yes,1,No,24,service,110000,above 10 lakhs
+Drashti,Female,Maharashtra ,500000,Yes,Yes,Both,Yes,Sometimes,1,Maybe,Yes,3000,3,Maybe,Yes,1,No,24,service,50000,3 L - 5L
+Manas Singh ,Male,Uttar Pradesh,0,Yes,No,Both,No,Sometimes,1,Yes,No,4000,1,No,No,1,No,23,service,0,Unemployed 
+Yashvardhan Malik,Male,Uttar Pradesh,0,Yes,Yes,Private,Yes,Always,2,Yes,No,3000,1,No,No,1,No,22,service,0,Unemployed 
+Aditi Sharma,Female,Madhya Pradesh,1150000,Yes,Yes,Private,Yes,Sometimes,2,No,No,4000,3,No,Yes,2,Yes,46,service,115000,above 10 lakhs
+Vipin ,Male,Uttar Pradesh,0,Yes,Yes,Government,Yes,Always,4,Yes,Yes,5000,3,Yes,Yes,3,No,34,service,0,Unemployed 
+Shivangi Trivedi ,Female,Uttar Pradesh,0,Yes,Yes,Government,Yes,Always,3,Maybe,Maybe,10000,2,No,No,4,No,35,service,0,Unemployed 
+Akanchha Saraf,Female,Bihar,300000,No,Yes,Private,Yes,Sometimes,1,Yes,Yes,3000,3,No,Yes,1,No,24,service,30000,below 3 lakhs
+Dr. Ragini Mallik ,Female,Assam ,1150000,No,Yes,Private,Yes,Always,1,Yes,Maybe,5000,1,Maybe,Yes,1,Yes,35,service,115000,above 10 lakhs
+Jaspreet Singh,Male,Rajasthan,0,No,Yes,Both,Yes,Always,1,No,Maybe,4000,1,Maybe,Yes,1,No,44,service,0,Unemployed 
+Navjot Pannu,Female,Punjab,0,No,No,Both,Yes,Sometimes,1,No,No,6000,1,Maybe,Yes,1,No,34,service,0,Unemployed 
+Yuvraj Bhatia,Male,Uttar Pradesh,0,No,No,Both,No,Sometimes,5,No,No,4000,1,No,Yes,1,No,35,business,0,Unemployed 
+Suchita ,Female,Uttarakhand,750000,No,Yes,Private,Yes,Always,3,Yes,No,3000,3,Yes,Yes,3,Yes,26,business,75000,7 L- 10 L
+Vaishnavi ,Female,Uttar Pradesh ,850000,No,Yes,Private,Yes,Always,2,Yes,Yes,5000,2,Yes,Yes,1,No,22,business,85000,7 L- 10 L
+Prakul Pradyan ,Male,Maharashtra ,1100000,Yes,Yes,Both,Yes,Sometimes,1,Maybe,No,4000,1,Maybe,Yes,1,No,35,business,110000,above 10 lakhs
+Aastha ,Female,Himachal Pradesh ,850000,Yes,Yes,Government,Maybe,Sometimes,4,No,Maybe,4000,5,Maybe,Yes,4,Maybe,34,business,85000,7 L- 10 L
+Prachi Mittal ,Female,Haryana,1150000,Yes,Yes,Both,Yes,Always,1,Yes,No,3000,3,Maybe,Yes,2,Yes,23,business,115000,above 10 lakhs
+Aarzoo Pilania ,Female,Haryana,900000,Yes,Yes,Private,Yes,Always,3,Yes,Yes,6000,3,Yes,Yes,3,Yes,23,business,90000,7 L- 10 L
+Dr.Sejal Garg,Female,Punjab ,0,Yes,Yes,Government,Yes,Always,1,Maybe,Yes,4000,2,Maybe,No,1,Yes,22,service,0,Unemployed 
+Mandira ,Female,Punjab,550000,Yes,No,Private,Yes,Always,2,No,Yes,6000,3,No,Yes,2,Yes,26,service,55000,5L- 7L
+Loysha Punj,Female,Maharashtra ,550000,Yes,Yes,Government,Yes,Always,1,Yes,No,7000,2,Yes,Yes,1,No,25,business,55000,5 L- 7 L
+Poonam,Female,Uttar Pradesh,500000,Yes,Yes,Government,No,Always,1,Yes,No,5000,2,No,Yes,2,Yes,25,business,50000,3 L - 5L
+Anand Raj ,Male,Bihar,1150000,Yes,Yes,Both,Yes,Always,5,Yes,Yes,6000,1,No,Yes,5,No,25,service,115000,above 10 lakhs
+Shalu Roy,Male,Bihar,0,Yes,Yes,Government,Yes,Sometimes,3,No,No,7000,3,Yes,No,3,No,35,service,0,Unemployed 
+Anjali ,Female,Bihar,0,No,Yes,Both,Yes,Sometimes,1,Maybe,No,5000,1,Maybe,Yes,1,Yes,23,business,0,Unemployed 
+Aaditya,Male,Karnataka,1150000,No,Yes,Private,Yes,Sometimes,2,No,Yes,0,1,Maybe,No,1,No,33,service,115000,above 10 lakhs
+Parth Chaturvedi,Male,Karnataka,1100000,No,Yes,Both,Yes,Always,2,Yes,Yes,6000,1,Yes,Yes,2,No,45,service,110000,above 10 lakhs
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,   ,,,,,,,,,,,,,,,,
+,,,,,   ,,,,,,,,,,,,,,,,
+,,,,,   ,,,,,,,,,,,,,,,,
+,,,,,   ,,,,,,,,,,,,,,,,
+,,,,,   ,,,,,,,,,,,,,,,,
+,,,,,   ,,,,,,,,,,,,,,,,
+,,,,,   ,,,,,,,,,,,,,,,,
+,,,,,    ,,,,,,,,,,,,,,,,
+,,,,,   ,,,,,,,,,,,,,,,,
